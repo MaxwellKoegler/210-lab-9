@@ -68,7 +68,6 @@ int main() {
     //matrix population
     for(int row = 0; row < SIZE; row++) {
         fill(constMatrix.at(row).begin(), constMatrix.at(row).end(), average);
-
     }
 
     for(int row = 0; row < SIZE; row++) {
