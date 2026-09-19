@@ -1,9 +1,13 @@
 #include <fstream>
-#include <vector>
+#include <array>
 #include <string>
 
 using namespace std;
 
 int main() {
-    
+
+}
+
+STD::vector vectorize() {
+
 }
